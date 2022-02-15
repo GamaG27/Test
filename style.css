@@ -1,0 +1,13 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+/*------topnav------*/
+
+.topnav {
+  list-style-type: none;
+  display: inline-flex;
+  background-color: #bfb897;
+}
